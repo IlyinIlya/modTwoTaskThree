@@ -12,7 +12,7 @@ public class App {
         //initial values
         Product product1 = new SimpleProduct("Футболка", 1500);
         Product product2 = new SimpleProduct("Шорты", 2100);
-        Product product3 = new DiscountedProduct("Рубашка", 1900, 30);
+        Product product3 = new DiscountedProduct("Рубашка", 1900, 20);
         Product product4 = new FixPriceProduct("Кепка");
         Product product5 = new DiscountedProduct("Брюки", 2500, 15);
         Product product6 = new SimpleProduct("Ремень", 900);
